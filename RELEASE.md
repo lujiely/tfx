@@ -4,7 +4,6 @@
 
 ## Bug fixes and other changes
 *   Depends on `kubernetes>=10.0.1,<12`.
-*   Removed `python-snappy` from `[all]` extra dependency list.
 
 ### Deprecations
 
